@@ -4,7 +4,7 @@ var globalVariable;
 globalVariable = 'hello word';
 
 let replaceable = 'this value will be replaced';
-replaceable = 'i am hana';
+replaceable = 'i am hana' + 'haloo';
 
 const constant = 'hello hana';
 
